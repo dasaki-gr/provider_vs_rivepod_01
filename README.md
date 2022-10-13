@@ -9,7 +9,7 @@ In [provider_vs_riverpod_02](https://github.com/dasaki-gr/provider_vs_rivepod_02
 
 A few resources to get you started if this is your first Flutter provider project:
 
-- [Youtube video that inspire my idea](https://youtu.be/A1qu8X7f36k)
+- [YouTube video that inspired me the idea](https://youtu.be/A1qu8X7f36k)
 - [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
 - [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
